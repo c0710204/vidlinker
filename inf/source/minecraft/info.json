@@ -1,0 +1,20 @@
+{
+    "soft": {
+        "name": "minecraft"
+    },
+    "text": {
+        "intro": ""
+    },
+    "usage": {
+        "hand_left": "mouse_left",
+        "hand_right": "mouse_right",
+        "hand_forward": "up",
+        "hand_backward": "down",
+        "hand_up": "mouse_up",
+        "hand_down": "mouse_down",
+        "hand_grip": "mouse_leftbtn",
+        "hand_five": "mouse_rightbtn",
+        "hand_phone": "space",
+        "hand_love": "reset"
+    }
+}
